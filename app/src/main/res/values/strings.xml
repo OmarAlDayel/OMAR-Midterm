@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">OMAR-Midterm21</string>
+    <string name="lionimage">Lion Image</string>
+    <string name="soundoflion">sound1</string>
+    <string name="bttn1">Go To Act 2</string>
+    <string name="txtfield1">Insert your name</string>
+    <string name="radiobttn1">Male</string>
+    <string name="radiobttn2">Female</string>
+    <string name="radiobttn3">Student</string>
+    <string name="radionbttn4">Instructor</string>
+    <string name="bttn2">Go To Act 3</string>
+    <string name="bttn22">DONE</string>
+</resources>
